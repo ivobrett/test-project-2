@@ -4,6 +4,8 @@
 
 Hi 2!
 
+Hallo, Welt!
+
 ## Contributing
 
 Contributions are welcome! Please open a pull request.
